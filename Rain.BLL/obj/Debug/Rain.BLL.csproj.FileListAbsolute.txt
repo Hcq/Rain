@@ -1,0 +1,15 @@
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.BLL.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.BLL.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.Common.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.DAL.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.Model.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.DBUtility.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.Common.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.DAL.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.Model.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\bin\Debug\Rain.DBUtility.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\obj\Debug\Rain.BLL.csprojAssemblyReference.cache
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\obj\Debug\Rain.BLL.csproj.CoreCompileInputs.cache
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\obj\Debug\Rain.BLL.csproj.CopyComplete
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\obj\Debug\Rain.BLL.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.BLL\obj\Debug\Rain.BLL.pdb

@@ -1,0 +1,132 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: Rain.Model.article_attach
+// Assembly: Rain.Model, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 7F3024AC-7DBA-4351-8C52-F3DF08C93221
+// Assembly location: C:\Users\Felix.Ho\Desktop\page\bin\Rain.Model.dll
+
+using System;
+
+namespace Rain.Model
+{
+  [Serializable]
+  public class article_attach
+  {
+    private int _article_id = 0;
+    private string _file_name = "";
+    private string _file_path = "";
+    private int _file_size = 0;
+    private string _file_ext = "";
+    private int _down_num = 0;
+    private int _point = 0;
+    private DateTime _add_time = DateTime.Now;
+    private int _id;
+
+    public int id
+    {
+      set
+      {
+        this._id = value;
+      }
+      get
+      {
+        return this._id;
+      }
+    }
+
+    public int article_id
+    {
+      set
+      {
+        this._article_id = value;
+      }
+      get
+      {
+        return this._article_id;
+      }
+    }
+
+    public string file_name
+    {
+      set
+      {
+        this._file_name = value;
+      }
+      get
+      {
+        return this._file_name;
+      }
+    }
+
+    public string file_path
+    {
+      set
+      {
+        this._file_path = value;
+      }
+      get
+      {
+        return this._file_path;
+      }
+    }
+
+    public int file_size
+    {
+      set
+      {
+        this._file_size = value;
+      }
+      get
+      {
+        return this._file_size;
+      }
+    }
+
+    public string file_ext
+    {
+      set
+      {
+        this._file_ext = value;
+      }
+      get
+      {
+        return this._file_ext;
+      }
+    }
+
+    public int down_num
+    {
+      set
+      {
+        this._down_num = value;
+      }
+      get
+      {
+        return this._down_num;
+      }
+    }
+
+    public int point
+    {
+      set
+      {
+        this._point = value;
+      }
+      get
+      {
+        return this._point;
+      }
+    }
+
+    public DateTime add_time
+    {
+      set
+      {
+        this._add_time = value;
+      }
+      get
+      {
+        return this._add_time;
+      }
+    }
+  }
+}

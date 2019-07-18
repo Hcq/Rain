@@ -1,0 +1,17 @@
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.Web.UI.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.Web.UI.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.BLL.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.Common.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.Model.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.DAL.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.DBUtility.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.BLL.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.Common.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.Model.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.DAL.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\bin\Debug\Rain.DBUtility.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.csprojAssemblyReference.cache
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.csproj.CoreCompileInputs.cache
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.csproj.CopyComplete
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.pdb

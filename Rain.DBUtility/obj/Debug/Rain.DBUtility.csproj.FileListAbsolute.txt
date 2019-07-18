@@ -1,0 +1,6 @@
+C:\WorkSpace\person\.net ef\Rain\Rain.DBUtility\bin\Debug\Rain.DBUtility.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.DBUtility\bin\Debug\Rain.DBUtility.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.DBUtility\obj\Debug\Rain.DBUtility.csprojAssemblyReference.cache
+C:\WorkSpace\person\.net ef\Rain\Rain.DBUtility\obj\Debug\Rain.DBUtility.csproj.CoreCompileInputs.cache
+C:\WorkSpace\person\.net ef\Rain\Rain.DBUtility\obj\Debug\Rain.DBUtility.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.DBUtility\obj\Debug\Rain.DBUtility.pdb

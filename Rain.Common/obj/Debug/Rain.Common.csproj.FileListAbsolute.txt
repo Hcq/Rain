@@ -1,0 +1,5 @@
+C:\WorkSpace\person\.net ef\Rain\Rain.Common\bin\Debug\Rain.Common.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Common\bin\Debug\Rain.Common.pdb
+C:\WorkSpace\person\.net ef\Rain\Rain.Common\obj\Debug\Rain.Common.csproj.CoreCompileInputs.cache
+C:\WorkSpace\person\.net ef\Rain\Rain.Common\obj\Debug\Rain.Common.dll
+C:\WorkSpace\person\.net ef\Rain\Rain.Common\obj\Debug\Rain.Common.pdb
