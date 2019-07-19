@@ -56,8 +56,8 @@
         templateBuilder.Append("script><![endif]-->\r\n</head>\r\n<body>\r\n<!--Header-->\r\n    ");
 
         templateBuilder.Append("<header>\r\n  <!-- Fixed navbar -->\r\n  <nav class=\"navbar navbar-default\">\r\n    <div class=\"container\">\r\n      <div class=\"navbar-header\">\r\n        <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\"><span class=\"sr-only\">导航菜单</span><span class=\"icon-bar\"></span><span class=\"icon-bar\"></span><span class=\"icon-bar\"></span></button>\r\n        <a href=\"/\"><img src=\"");
-        templateBuilder.Append("/templates/webhtml");
-        templateBuilder.Append("/images/logo.png\" class=\"logo\" alt=\"\"/></a></div>\r\n      <div id=\"navbar\" class=\"navbar-collapse collapse\">\r\n        <ul class=\"nav navbar-nav\">\r\n          <li><a href=\"");
+        templateBuilder.Append(Utils.ObjectToStr(site.logo));
+        templateBuilder.Append("\" class=\"logo\" alt=\"\"/></a></div>\r\n      <div id=\"navbar\" class=\"navbar-collapse collapse\">\r\n        <ul class=\"nav navbar-nav\">\r\n          <li><a href=\"");
         templateBuilder.Append(linkurl("index"));
 
         templateBuilder.Append("\">网站首页</a></li>\r\n          <li><a href=\"");

@@ -217,6 +217,7 @@
     <Content Include="api\payment\tenpaypc\return_url.aspx" />
     <Content Include="App_Data\UScmsdb4.mdb" />
     <Content Include="aspx\main\content.aspx" />
+    <Content Include="aspx\main\error.aspx" />
     <Content Include="aspx\main\goods_list.aspx" />
     <Content Include="aspx\main\goods_show.aspx" />
     <Content Include="aspx\main\index.aspx" />
@@ -450,7 +451,9 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
-    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="aspx\main\master.Master" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <Content Include="images\error\error.jpg" />
     <Content Include="images\oauth\feixin.png" />
     <Content Include="images\oauth\kaixin.png" />
     <Content Include="images\oauth\qq.png" />
@@ -461,8 +464,6 @@
     <Content Include="Scripts\artdialog\dialog-min.js" />
     <Content Include="Scripts\artdialog\dialog-plus-min.js" />
     <Content Include="Scripts\artdialog\ui-dialog.css" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\ckplayer\ckplayer.js" />
     <Content Include="Scripts\ckplayer\ckplayer.swf" />
     <Content Include="Scripts\ckplayer\ckplayer.xml" />
@@ -493,10 +494,6 @@
     <Content Include="Scripts\datepicker\skin\whyGreen\datepicker.css" />
     <Content Include="Scripts\datepicker\skin\whyGreen\img.gif" />
     <Content Include="Scripts\datepicker\WdatePicker.js" />
-    <Content Include="Scripts\jquery-3.3.1.js" />
-    <Content Include="Scripts\jquery-3.3.1.min.js" />
-    <Content Include="Scripts\jquery-3.3.1.slim.js" />
-    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
     <Content Include="Scripts\jquery\jquery-1.11.2.min.js" />
     <Content Include="Scripts\jquery\jquery.form.min.js" />
     <Content Include="Scripts\jquery\jquery.jcrop.min.js" />
@@ -507,27 +504,6 @@
     <Content Include="Scripts\jquery\PCASClass.js" />
     <Content Include="Scripts\jquery\Validform_v5.3.2_min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Scripts\WebForms\DetailsView.js" />
-    <Content Include="Scripts\WebForms\Focus.js" />
-    <Content Include="Scripts\WebForms\GridView.js" />
-    <Content Include="Scripts\WebForms\Menu.js" />
-    <Content Include="Scripts\WebForms\MenuStandards.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
-    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
-    <Content Include="Scripts\WebForms\SmartNav.js" />
-    <Content Include="Scripts\WebForms\TreeView.js" />
-    <Content Include="Scripts\WebForms\WebForms.js" />
-    <Content Include="Scripts\WebForms\WebParts.js" />
-    <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Scripts\webuploader\uploader.swf" />
     <Content Include="Scripts\webuploader\webuploader.min.js" />
     <Content Include="templates\webhtml\about.xml" />
@@ -1062,6 +1038,13 @@
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="aspx\main\master.Master.cs">
+      <DependentUpon>master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspx\main\master.Master.designer.cs">
+      <DependentUpon>master.Master</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -1083,13 +1066,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="aspx\moban1\" />
     <Folder Include="plugins\" />
     <Folder Include="upload\201504\29\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
-    <Content Include="Scripts\jquery-3.3.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

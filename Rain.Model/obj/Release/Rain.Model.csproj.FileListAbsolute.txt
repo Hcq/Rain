@@ -1,0 +1,6 @@
+C:\WorkSpace\project\Rain\Rain.Model\bin\Release\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.Model\bin\Release\Rain.Model.pdb
+C:\WorkSpace\project\Rain\Rain.Model\obj\Release\Rain.Model.csprojAssemblyReference.cache
+C:\WorkSpace\project\Rain\Rain.Model\obj\Release\Rain.Model.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.Model\obj\Release\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.Model\obj\Release\Rain.Model.pdb

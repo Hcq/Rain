@@ -1,0 +1,15 @@
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.BLL.dll
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.BLL.pdb
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.DBUtility.dll
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.Common.pdb
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.DAL.pdb
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.Model.pdb
+C:\WorkSpace\project\Rain\Rain.BLL\bin\Release\Rain.DBUtility.pdb
+C:\WorkSpace\project\Rain\Rain.BLL\obj\Release\Rain.BLL.csprojAssemblyReference.cache
+C:\WorkSpace\project\Rain\Rain.BLL\obj\Release\Rain.BLL.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.BLL\obj\Release\Rain.BLL.csproj.CopyComplete
+C:\WorkSpace\project\Rain\Rain.BLL\obj\Release\Rain.BLL.dll
+C:\WorkSpace\project\Rain\Rain.BLL\obj\Release\Rain.BLL.pdb

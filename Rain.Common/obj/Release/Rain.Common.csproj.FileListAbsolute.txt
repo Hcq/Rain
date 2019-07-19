@@ -1,0 +1,5 @@
+C:\WorkSpace\project\Rain\Rain.Common\bin\Release\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.Common\bin\Release\Rain.Common.pdb
+C:\WorkSpace\project\Rain\Rain.Common\obj\Release\Rain.Common.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.Common\obj\Release\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.Common\obj\Release\Rain.Common.pdb

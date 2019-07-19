@@ -9,7 +9,10 @@ namespace Rain.Web
 {
     public class BundleConfig
     {
-        // For more information on Bundling, visit https://go.microsoft.com/fwlink/?LinkID=303951
+        /// <summary>
+        /// 主要用来压缩脚本和样式
+        /// </summary>
+        /// <param name="bundles"></param>
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/WebFormsJs").Include(

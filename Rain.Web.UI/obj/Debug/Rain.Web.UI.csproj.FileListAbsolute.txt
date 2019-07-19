@@ -15,3 +15,20 @@ C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.csproj.CoreCo
 C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.csproj.CopyComplete
 C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.dll
 C:\WorkSpace\person\.net ef\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.Web.UI.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.Web.UI.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.BLL.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.DBUtility.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.BLL.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.Common.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.Model.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.DAL.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Debug\Rain.DBUtility.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.csprojAssemblyReference.cache
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.csproj.CopyComplete
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Debug\Rain.Web.UI.pdb

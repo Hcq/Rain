@@ -1,0 +1,17 @@
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.Web.UI.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.Web.UI.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.BLL.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.DBUtility.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.BLL.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.Common.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.Model.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.DAL.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\bin\Release\Rain.DBUtility.pdb
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Release\Rain.Web.UI.csprojAssemblyReference.cache
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Release\Rain.Web.UI.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Release\Rain.Web.UI.csproj.CopyComplete
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Release\Rain.Web.UI.dll
+C:\WorkSpace\project\Rain\Rain.Web.UI\obj\Release\Rain.Web.UI.pdb

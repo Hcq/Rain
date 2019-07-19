@@ -1,0 +1,17 @@
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.API.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.API.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.BLL.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.DBUtility.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.BLL.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.Common.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.Model.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.DAL.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Release\Rain.DBUtility.pdb
+C:\WorkSpace\project\Rain\Rain.API\obj\Release\Rain.API.csprojAssemblyReference.cache
+C:\WorkSpace\project\Rain\Rain.API\obj\Release\Rain.API.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.API\obj\Release\Rain.API.csproj.CopyComplete
+C:\WorkSpace\project\Rain\Rain.API\obj\Release\Rain.API.dll
+C:\WorkSpace\project\Rain\Rain.API\obj\Release\Rain.API.pdb

@@ -15,3 +15,20 @@ C:\WorkSpace\person\.net ef\Rain\Rain.API\obj\Debug\Rain.API.csproj.CoreCompileI
 C:\WorkSpace\person\.net ef\Rain\Rain.API\obj\Debug\Rain.API.csproj.CopyComplete
 C:\WorkSpace\person\.net ef\Rain\Rain.API\obj\Debug\Rain.API.dll
 C:\WorkSpace\person\.net ef\Rain\Rain.API\obj\Debug\Rain.API.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.API.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.API.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.BLL.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.DBUtility.dll
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.BLL.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.Common.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.Model.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.DAL.pdb
+C:\WorkSpace\project\Rain\Rain.API\bin\Debug\Rain.DBUtility.pdb
+C:\WorkSpace\project\Rain\Rain.API\obj\Debug\Rain.API.csprojAssemblyReference.cache
+C:\WorkSpace\project\Rain\Rain.API\obj\Debug\Rain.API.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.API\obj\Debug\Rain.API.csproj.CopyComplete
+C:\WorkSpace\project\Rain\Rain.API\obj\Debug\Rain.API.dll
+C:\WorkSpace\project\Rain\Rain.API\obj\Debug\Rain.API.pdb

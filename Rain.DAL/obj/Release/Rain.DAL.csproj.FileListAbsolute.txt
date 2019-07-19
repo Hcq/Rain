@@ -1,0 +1,13 @@
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Release\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Release\Rain.DAL.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Release\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Release\Rain.DBUtility.dll
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Release\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Release\Rain.Common.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Release\Rain.DBUtility.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Release\Rain.Model.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Release\Rain.DAL.csprojAssemblyReference.cache
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Release\Rain.DAL.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Release\Rain.DAL.csproj.CopyComplete
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Release\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Release\Rain.DAL.pdb

@@ -11,3 +11,16 @@ C:\WorkSpace\person\.net ef\Rain\Rain.DAL\obj\Debug\Rain.DAL.csproj.CoreCompileI
 C:\WorkSpace\person\.net ef\Rain\Rain.DAL\obj\Debug\Rain.DAL.csproj.CopyComplete
 C:\WorkSpace\person\.net ef\Rain\Rain.DAL\obj\Debug\Rain.DAL.dll
 C:\WorkSpace\person\.net ef\Rain\Rain.DAL\obj\Debug\Rain.DAL.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Debug\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Debug\Rain.DAL.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Debug\Rain.Common.dll
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Debug\Rain.DBUtility.dll
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Debug\Rain.Model.dll
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Debug\Rain.Common.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Debug\Rain.DBUtility.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\bin\Debug\Rain.Model.pdb
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Debug\Rain.DAL.csprojAssemblyReference.cache
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Debug\Rain.DAL.csproj.CoreCompileInputs.cache
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Debug\Rain.DAL.csproj.CopyComplete
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Debug\Rain.DAL.dll
+C:\WorkSpace\project\Rain\Rain.DAL\obj\Debug\Rain.DAL.pdb
